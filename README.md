@@ -17,4 +17,11 @@ Using map function to render a list of objects. I also attached each pictures's 
 ### createRef
 Created a Ref under constructor to access each picture's height from their DOM elements in order to display the result pictures.
 
+    constructor(props) {
+        super(props);
+
+        this.state = {spans: 0};
+        this.imageRef = React.createRef();
+    }
+
 ## Summary
