@@ -11,7 +11,7 @@ Using a call back function of a prop may caused error message when the value of 
 ### Prop
 Since props can only be passed down from a parent to a child and not the other way around, I set a call back function from the parent to the child and have child to call the call back function.
 
-### Render the list
+### Iterate a list of objects
 Using map function to render a list of objects. I also attached each pictures's key with a unique ID.
 
 ### createRef
