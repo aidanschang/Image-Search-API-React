@@ -25,3 +25,4 @@ Created a Ref under constructor to access each picture's height from their DOM e
     }
 
 ## Summary
+Understating of class/functional componenents and props/stats is the back bone of this project. Using Axios for HTTP request makes API a lot simpler.
